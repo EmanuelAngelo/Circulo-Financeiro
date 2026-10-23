@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "./assets/styles/base.css";
+@import "./assets/styles/layout.css";
+@import "./assets/styles/dashboard.css";
+@import "./assets/styles/components.css";
+@import "./assets/styles/forms.css";
+@import "./assets/styles/auth.css";
+@import "./assets/styles/responsive.css";
